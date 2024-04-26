@@ -1,0 +1,5 @@
+chat gpt
+https://php-guru.com/google-maps-in-php/
+https://developers.google.com/kml/articles/phpmysqlkml
+https://developers.google.com/maps/documentation/javascript/kml?hl=it
+https://www.youtube.com/watch?v=PofrPbGcXV0
